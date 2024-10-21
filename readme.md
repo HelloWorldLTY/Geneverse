@@ -27,9 +27,12 @@ All of the hyper-parameters used in our experiments can be found in these folder
 We thank the authors from stanford-alpaca, alpaca-lora and LLaVA for offering methods to finetune MLLMs.
 
 # Citation
+
+```
 @article{liu2024geneverse,
   title={Geneverse: A collection of Open-source Multimodal Large Language Models for Genomic and Proteomic Research},
   author={Liu, Tianyu and Xiao, Yijia and Luo, Xiao and Xu, Hua and Zheng, W Jim and Zhao, Hongyu},
-  journal={arXiv preprint arXiv:2406.15534},
+  journal={The 2024 Conference on Empirical Methods in Natural Language Processing},
   year={2024}
 }
+```
